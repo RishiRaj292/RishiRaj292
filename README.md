@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RishiRaj292
 - 👀 I’m interested in ... Machine Learning And Data Science
-- 📫 How to reach me ... email me at nahsorjar09@gmail.com
+- 📫 How to reach me ... email me at rishiraj.dev01@gmail.com
 
 
 <!---
